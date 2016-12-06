@@ -15,6 +15,6 @@ applications:
   disk: 128M
   command: node app.js
   path: .
-  domain: mybluemix.net
+  domain: eioa2.mybluemix.net
   memory: 128M 
   instances: 1
